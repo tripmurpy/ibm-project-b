@@ -81,6 +81,15 @@ Penjelasan urutan demo dan isi setiap gambar tersedia di [docs/visual-demo.md](d
 ![Demo 3](brain/file-pics/pics3-docs.png)
 ![Demo 4](brain/file-pics/pics4-docs.png)
 
+### Penjelasan Urutan Demo
+
+1. **Pic 1 - Pembukaan dan konteks:** Teman Tumbuh menyampaikan batasan informasi, menerima keluhan batuk pilek, lalu menanyakan usia dan durasi gejala anak.
+2. **Pic 2 - Triage awal:** Agen memeriksa durasi gejala dan red flag seperti demam, sesak napas, sulit minum, atau kondisi lemas sebelum melanjutkan.
+3. **Pic 3 - Edukasi berbasis sumber:** Setelah konteks cukup dan tidak ada red flag, agen menjelaskan batuk pilek, gejala umum, perbedaannya dengan influenza, serta kapan perlu ke dokter.
+4. **Pic 4 - Rekomendasi menu:** Saat pengguna meminta makanan, agen menanyakan alergi terlebih dahulu. Setelah mengetahui alergi susu, agen memberikan rekomendasi bubur nasi tofu beserta bahan dan cara membuat.
+
+Penjelasan visual lengkap tersedia di [docs/visual-demo.md](docs/visual-demo.md).
+
 ## Run Lokal
 
 Frontend:
