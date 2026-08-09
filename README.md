@@ -74,7 +74,7 @@ Schema MVP disimpan di Supabase PostgreSQL.
 
 ## Demo Visual
 
-Berikut beberapa demo dan catatan visual yang disimpan di `brain/file-pics/`:
+Penjelasan urutan demo dan isi setiap gambar tersedia di [docs/visual-demo.md](docs/visual-demo.md).
 
 ![Demo 1](brain/file-pics/Pict%201%20ibm-docs.png)
 ![Demo 2](brain/file-pics/pic2-docs.png)

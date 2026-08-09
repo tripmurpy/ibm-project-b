@@ -3,6 +3,13 @@ dist/
 *.log
 .bob/
 .brain/
+brain/
+# Publish only the demo screenshots; keep the rest of brain/ private.
+!brain/
+brain/*
+!brain/file-pics/
+brain/file-pics/*
+!brain/file-pics/*.png
 scripts/
 supabase/
 REVISI.md
