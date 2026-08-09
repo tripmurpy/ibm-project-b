@@ -4,6 +4,10 @@
 
 Project ini dibuat oleh **Benny Hendrawan**.
 
+## Panduan Belajar Project
+
+Jika ingin memahami project ini seperti mengikuti materi kuliah singkat, mulai dari [Panduan Belajar Project](docs/project-learning/README.md). Di dalamnya dijelaskan tech stack, infrastruktur, struktur folder, arsitektur agent, alur RAG, serta pelajaran dari kesalahan yang tercatat selama pengembangan.
+
 ## Apa yang Dibangun
 
 - Frontend chat berbasis **React + Vite**.
