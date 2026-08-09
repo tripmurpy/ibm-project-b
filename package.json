@@ -1,0 +1,25 @@
+{
+  "name": "ibm-project-chat",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node --test",
+    "data:clean": "node scripts/clean_book_markdown.mjs",
+    "data:validate": "python scripts/ingest_book.py --validate-only",
+    "data:ingest": "python scripts/ingest_book.py",
+    "data:audit": "python scripts/audit_ingest.py",
+    "test:supabase": "node scripts/test_supabase_connection.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "supabase": "^2.113.0"
+  }
+}

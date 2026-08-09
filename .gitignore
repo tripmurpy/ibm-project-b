@@ -1,0 +1,19 @@
+node_modules/
+dist/
+*.log
+.bob/
+.brain/
+scripts/
+supabase/
+REVISI.md
+__pycache__/
+*.py[cod]
+
+# Local environment files may contain secrets.
+.env
+.env.*
+!.env.example
+
+# Local data pipeline artifacts may contain copyrighted or sensitive content.
+data/cleaning/
+data/ingest/
